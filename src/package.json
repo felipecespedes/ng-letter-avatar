@@ -1,0 +1,29 @@
+{
+  "name": "ng-letter-avatar",
+  "version": "0.2.0",
+  "description": "Angular v2+ Letter Avatar",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/viwell/ng-letter-avatar"
+  },
+  "author": {
+    "name": "Felipe Céspedes",
+    "email": "felipecespedespisso@gmail.com"
+  },
+  "keywords": [
+    "angular",
+    "letter",
+    "avatar"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/viwell/ng-letter-avatar/issues"
+  },
+  "module": "ng-letter-avatar.js",
+  "typings": "ng-letter-avatar.d.ts",
+  "peerDependencies": {
+    "@angular/core": "^4.0.0",
+    "rxjs": "^5.1.0",
+    "zone.js": "^0.8.4"
+  }
+}
