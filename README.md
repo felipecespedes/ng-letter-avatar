@@ -55,6 +55,10 @@ To lint all `*.ts` files:
 $ npm run lint
 ```
 
+## Authors
+
+* **Felipe Céspedes** - *felipecespedespisso@gmail.com* - [Viwell](https://github.com/viwell)
+
 ## License
 
-MIT © [Felipe Céspedes](mailto:felipecespedespisso@gmail.com)
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
