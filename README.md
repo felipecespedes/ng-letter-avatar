@@ -37,8 +37,27 @@ export class AppModule { }
 
 Once `NgLetterAvatarModule` is imported, you can use its component:
 
+Template:
+
 ```xml
-<ng-letter-avatar></ng-letter-avatar>
+<ng-letter-avatar name="name"></ng-letter-avatar>
+```
+
+`.ts` file:
+
+```ts
+import { Component } from '@angular/core';
+
+@Component({
+  selector: 'my-app',
+  template: 'my-app.html',
+  styles: ['my-app.scss']
+})
+export class NgLetterAvatarComponent {
+  
+  public name = 'Karl Marx';
+  
+}
 ```
 
 ## Development
