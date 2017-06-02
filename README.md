@@ -91,6 +91,10 @@ export class NgLetterAvatarComponent {
 }
 ```
 
+## Screenshots
+
+![Screenshot](/screenshots/screenshot_1.png "Screenshot")
+
 ## Development
 
 To generate all `*.js`, `*.d.ts` and `*.metadata.json` files:
