@@ -51,7 +51,7 @@ import { Component } from '@angular/core';
   template: 'my-app.html',
   styles: ['my-app.scss']
 })
-export class NgLetterAvatarComponent {
+export class MyComponent {
   
   public name = 'Karl Marx';
   
@@ -80,7 +80,7 @@ import { Component } from '@angular/core';
   template: 'my-app.html',
   styles: ['my-app.scss']
 })
-export class NgLetterAvatarComponent {
+export class MyComponent {
   
   public name = 'Karl Marx';
   public color = '#ff00ff';
